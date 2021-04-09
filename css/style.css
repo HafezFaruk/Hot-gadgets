@@ -1,0 +1,43 @@
+section{
+    margin-bottom: 100px;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 3px 5px lightgray;
+}
+.card-footer{
+    border: none;
+    background: #fff;
+}
+
+.categories div{
+  height: 5px;
+  width: 150px;
+  background-color: goldenrod;
+  display: inline-block;
+}
+
+
+.img{
+    box-shadow: 2px 2px 10px 3px lavender;
+}
+#home{
+    background-image: url(../images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 20px 40px;
+    
+}
+.home{
+    background-image: url(../images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+}
+footer{
+    color: grey;
+}
